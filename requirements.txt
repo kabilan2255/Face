@@ -1,9 +1,8 @@
-pip install tk-tools
-pip install opencv-contrib-python
-pip install datetime
-pip install pytest-shutil
-pip install python-csv
-pip install numpy
-pip install pillow 
-pip install pandas
-pip install times
+tk-tools==0.16.0
+numpy==1.14.2
+opencv-contrib-python==3.4.0.12
+pytest-shutil==1.7.0
+Pillow==2.6.1
+pandas==2.0.2
+datetime==5.1
+python-csv==1.2.3
